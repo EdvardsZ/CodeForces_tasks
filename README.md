@@ -1,6 +1,6 @@
 # CodeForces_tasks
 My solotions to some of https://codeforces.com/ problems
 
-1. 
+1. https://codeforces.com/problemset/problem/1720/A
 2.
 3.
