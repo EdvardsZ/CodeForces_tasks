@@ -1,5 +1,5 @@
 # CodeForces_tasks
-My solotions to https://codeforces.com/ problems
+My solotions to some of https://codeforces.com/ problems
 
 1. 
 2.
